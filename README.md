@@ -6,6 +6,8 @@
 
 **Computer Vision & Full-Stack Development** · Lahore
 
+[![MT Project checks](https://github.com/BilalZaka37/mt-project/actions/workflows/ci.yml/badge.svg)](https://github.com/BilalZaka37/mt-project/actions/workflows/ci.yml)
+
 I build applications that connect video processing, backend APIs, and usable interfaces. My current project is **MT Project**, an original video surveillance prototype built around real detection, tracking, and reviewable incident evidence.
 
 [Explore MT Project](https://github.com/BilalZaka37/mt-project) · [View the portfolio](https://bilalzaka37.github.io/mt-project/) · [Watch the workflow](https://bilalzaka37.github.io/mt-project/#workflow)
@@ -24,6 +26,8 @@ A working full-stack computer vision prototype with:
 
 The portfolio includes an **87-second capture of the functioning application**, using public OpenCV footage and CPU inference. Physical-camera acceptance, GPU performance, and production-scale validation remain separate work. MT Project is an independent prototype developed with AI assistance; dependencies and public footage are credited in the repository.
 
+GitHub Actions checks the frontend build, backend tests (including a PostgreSQL smoke test), and Docker image build.
+
 [Architecture](https://github.com/BilalZaka37/mt-project/blob/main/docs/ARCHITECTURE.md) · [Executed validation](https://github.com/BilalZaka37/mt-project/blob/main/docs/VALIDATION.md) · [Run it locally](https://github.com/BilalZaka37/mt-project#portable-windows-setup)
 
 ## Technologies used in MT Project
@@ -35,7 +39,7 @@ The portfolio includes an **87-second capture of the functioning application**, 
 | Frontend | React, TypeScript, Vite, CSS |
 | Data | PostgreSQL deployment configuration, SQLite for local development |
 | Media & delivery | FFmpeg, H.264 MP4, signed webhooks, persistent retries |
-| Tooling | Docker, pytest, GitHub Actions configuration |
+| Tooling | Docker, pytest, GitHub Actions |
 
 ## Engineering focus
 
