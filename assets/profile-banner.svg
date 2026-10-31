@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
+  <title id="title">Bilal Zaka — Computer Vision &amp; Full-Stack Development</title>
+  <desc id="desc">Original forest-green profile banner with a simple camera-to-interface pipeline.</desc>
+  <rect width="1280" height="300" rx="16" fill="#142a23"/>
+  <path d="M0 276h1280" stroke="#365d49"/>
+  <circle cx="62" cy="64" r="5" fill="#7fbe92"/>
+  <text x="80" y="69" fill="#b7d4bf" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2">COMPUTER VISION &amp; FULL-STACK DEVELOPMENT</text>
+  <text x="56" y="153" fill="#f4f7ef" font-family="Georgia,serif" font-size="64">Bilal Zaka</text>
+  <text x="60" y="204" fill="#c2d4c6" font-family="Arial,Helvetica,sans-serif" font-size="20">Video processing. Useful interfaces. Traceable workflows.</text>
+  <text x="60" y="250" fill="#8fae99" font-family="Arial,Helvetica,sans-serif" font-size="13">PYTHON  /  FASTAPI  /  REACT  /  OPENCV  /  YOLO</text>
+  <g fill="none" stroke="#638b70" stroke-width="2">
+    <rect x="882" y="94" width="100" height="100" rx="12"/>
+    <path d="M907 128h38v32h-38zm38 8 15-9v34l-15-9"/>
+    <path d="M982 144h46m-9-7 9 7-9 7"/>
+    <rect x="1037" y="94" width="154" height="100" rx="12"/>
+    <path d="M1057 119h114m-114 19h67m-67 18h94m-94 18h51"/>
+  </g>
+  <text x="932" y="222" text-anchor="middle" fill="#9cbea6" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="1">VIDEO</text>
+  <text x="1114" y="222" text-anchor="middle" fill="#9cbea6" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="1">APPLICATIONS</text>
+</svg>
